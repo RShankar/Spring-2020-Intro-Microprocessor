@@ -1,0 +1,1 @@
+We will include material here on the Integrated Development Environment (IDE) that PIC provides. Note that there are two versions: an online system that is very user friendly, but limited in its capabilities. This can be used to validate some of your ideas quickly, but cannot substitute for the stand-alone IDE that has to be installed on your PC. 
