@@ -20,5 +20,13 @@ Reviews:
 Online Help sites:
 * https://mplabxpress.microchip.com/mplabcloud/example?board=curiosity&author=microchip (link repeated)
 
+Peripherals used:
+* https://www.microchip.com/design-centers/motor-control-and-drive
+* https://www.microchip.com/design-centers/8-bit/peripherals/intelligent-analog/analog-to-digital-converter-with-enhanced-features
+* https://www.microchip.com/design-centers/8-bit/peripherals
+* https://www.microchip.com/design-centers/intelligent-power
+* https://microchipdeveloper.com/8bit:hltmr
+
+
 
 
