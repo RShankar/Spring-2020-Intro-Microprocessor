@@ -27,6 +27,8 @@ Peripherals used:
 * https://www.microchip.com/design-centers/intelligent-power
 * https://microchipdeveloper.com/8bit:hltmr
 
+Books (related, but not directly relevant):
+* https://www.microchipdirect.com/product/Cat7_SubCat11?Books%20and%20Courseware
 
 
 
