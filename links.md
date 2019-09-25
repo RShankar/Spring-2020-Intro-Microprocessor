@@ -9,7 +9,7 @@ From Microchip, maker of the embedded system board:
 Developer Help:
 * https://microchipdeveloper.com/boards:curiosityhpc
 * https://microchipdeveloper.com/boards:curiosity-videos
-* http://ww1.microchip.com/downloads/en/DeviceDoc/Curiosity%20HPC%20Demo%20Code.zip
+* http://ww1.microchip.com/downloads/en/DeviceDoc/Curiosity%20HPC%20Demo%20Code.zip (link repeated)
 * https://mplabxpress.microchip.com/mplabcloud/example?board=curiosity&author=microchip
 
 
@@ -18,6 +18,6 @@ Reviews:
 * https://www.digikey.com/en/blog/microchip-curiosity-hpc-development-board
 
 Online Help sites:
-* https://mplabxpress.microchip.com/mplabcloud/example?board=curiosity&author=microchip
+* https://mplabxpress.microchip.com/mplabcloud/example?board=curiosity&author=microchip (link repeated)
 
 
