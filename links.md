@@ -12,6 +12,8 @@ Developer Help:
 * http://ww1.microchip.com/downloads/en/DeviceDoc/Curiosity%20HPC%20Demo%20Code.zip (link repeated)
 * https://mplabxpress.microchip.com/mplabcloud/example?board=curiosity&author=microchip
 
+Training (online, free):
+* https://microchipdeveloper.com/training-self:start
 
 Reviews:
 * https://electronza.com/review-curiosity-hpc-development-board/
