@@ -5,6 +5,9 @@ From Microchip, maker of the embedded system board:
 * http://ww1.microchip.com/downloads/en/DeviceDoc/40001845A.pdf
 * 
 
+Text Book (recommended/required):
+* Programming PIC Microcontrollers with XC8 by Subero, Armstrong,  https://www.apress.com/us/book/9781484232729 
+* Software for Subero's book: https://github.com/Apress/programming-pic-microcontrollers-w-xc8 
 
 Developer Help:
 * https://microchipdeveloper.com/boards:curiosityhpc
@@ -32,5 +35,6 @@ Peripherals used:
 Books (related, but not directly relevant):
 * https://www.microchipdirect.com/product/Cat7_SubCat11?Books%20and%20Courseware
 
-
+Software:
+* https://github.com/Apress/programming-pic-microcontrollers-w-xc8
 
