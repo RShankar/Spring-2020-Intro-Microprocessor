@@ -9,7 +9,14 @@ Text Book (recommended/useful):
 * On the use of the XC8 compiler: 
    * Programming PIC Microcontrollers with XC8 by Subero, Armstrong,  https://www.apress.com/us/book/9781484232729 
    * Software for Subero's book: https://github.com/Apress/programming-pic-microcontrollers-w-xc8 
-
+* On the PIC Microcontroller:
+   * PIC Microcontroller and Embedded Systems, using Assembly and C witth PIC18, 2nd edition, by Mazidi, Causey, and McKinlay, 2016
+   * Book website: http://www.microdigitaled.com/PIC/PIC_books.htm
+   * Slides:http://www.microdigitaled.com/PIC/PowerPoints/PIC_ppts.htm
+   * Labs: http://www.microdigitaled.com/PIC/Lab/PIC_labs.htm
+   * List of labs: http://www.microdigitaled.com/PIC/Lab/PIC_labs.htm. 
+   * Also here: https://github.com/RShankar/Spring-2020-Intro-Microprocessor/blob/master/imag/PIC18%20labs_For%20Mazidi%20book.png
+   
 Developer Help:
 * https://microchipdeveloper.com/boards:curiosityhpc
 * https://microchipdeveloper.com/boards:curiosity-videos
