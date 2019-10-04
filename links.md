@@ -16,6 +16,8 @@ Text Book (recommended/useful):
    * Labs: http://www.microdigitaled.com/PIC/Lab/PIC_labs.htm
    * List of labs: http://www.microdigitaled.com/PIC/Lab/PIC_labs.htm. 
    * Also here: https://github.com/RShankar/Spring-2020-Intro-Microprocessor/blob/master/imag/PIC18%20labs_For%20Mazidi%20book.png
+   * Book Source code, by chapter: http://www.microdigitaled.com/PIC/Code/PIC_codes.htm
+   
    
 Developer Help:
 * https://microchipdeveloper.com/boards:curiosityhpc
