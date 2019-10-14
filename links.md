@@ -20,7 +20,9 @@ Text Book and our resources (required/recommended/useful):
 * Information from spring'19 course offering on PIC16F18855 (we are using PIC16F18875, a different microcontroller, in spring'20):            https://github.com/RShankar/Intro-to-Microprocessors .     
 
 Installation help and guides:
-* IDE Installation (step-by-step): https://github.com/RShankar/Intro-to-Microprocessors/tree/master/MPLab%20X%20IDE
+* Microchip video: https://www.youtube.com/watch?v=T8tRqvkFZcw
+* Our IDE Installation (step-by-step). It is for an earlier version for a different board, but still useful:
+      https://github.com/RShankar/Intro-to-Microprocessors/tree/master/MPLab%20X%20IDE
 * Software to be downloaded and installed or to be Explored: 
     * For stand-alone IDE (Operating system dependent) installation: https://www.microchip.com/mplab/mplab-x-ide
     * Explore the IDE on the cloud (for learning purposes only; all class work must be done on the stand-alone IDE installed on your
