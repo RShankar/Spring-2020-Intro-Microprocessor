@@ -23,6 +23,7 @@ Installation help and guides:
 * Microchip video: https://www.youtube.com/watch?v=T8tRqvkFZcw
 * Our IDE Installation (step-by-step). It is for an earlier version for a different board, but still useful:
       https://github.com/RShankar/Intro-to-Microprocessors/tree/master/MPLab%20X%20IDE
+* HPC board connection to PC: https://www.mouser.com/datasheet/2/268/40001856A-967754.pdf
 * Software to be downloaded and installed or to be explored: 
     * For stand-alone IDE (Operating system dependent) installation: https://www.microchip.com/mplab/mplab-x-ide
     * Explore the IDE on the cloud (for learning purposes only; all class work must be done on the stand-alone IDE installed on your
