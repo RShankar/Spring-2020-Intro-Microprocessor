@@ -5,11 +5,8 @@ From Microchip, maker of the embedded system board:
 * http://ww1.microchip.com/downloads/en/DeviceDoc/40001845A.pdf
 * 
 
-Text Book (recommended/useful):
-* On the use of the XC8 compiler: 
-   * Programming PIC Microcontrollers with XC8 by Subero, Armstrong,  https://www.apress.com/us/book/9781484232729 
-   * Software for Subero's book: https://github.com/Apress/programming-pic-microcontrollers-w-xc8 
-* On the PIC Microcontroller:
+Text Book and our resources (required/recommended/useful):
+* On the PIC Microcontroller (required):
    * PIC Microcontroller and Embedded Systems, using Assembly and C witth PIC18, 2nd edition, by Mazidi, Causey, and McKinlay, 2016
    * Book website: http://www.microdigitaled.com/PIC/PIC_books.htm
    * Slides:http://www.microdigitaled.com/PIC/PowerPoints/PIC_ppts.htm
@@ -17,8 +14,27 @@ Text Book (recommended/useful):
    * List of labs: http://www.microdigitaled.com/PIC/Lab/PIC_labs.htm. 
    * Also here: https://github.com/RShankar/Spring-2020-Intro-Microprocessor/blob/master/imag/PIC18%20labs_For%20Mazidi%20book.png
    * Book Source code, by chapter: http://www.microdigitaled.com/PIC/Code/PIC_codes.htm
-   
-   
+* On the use of the XC8 compiler (recommended/useful): 
+   * Programming PIC Microcontrollers with XC8 by Subero, Armstrong,  https://www.apress.com/us/book/9781484232729 
+   * Software for Subero's book: https://github.com/Apress/programming-pic-microcontrollers-w-xc8  
+* Information from spring'19 course offering on PIC16F18855 (we are using PIC16F18875, a different microcontroller, in spring'20):            https://github.com/RShankar/Intro-to-Microprocessors .     
+
+Installation help and guides:
+* IDE Installation (step-by-step): https://github.com/RShankar/Intro-to-Microprocessors/tree/master/MPLab%20X%20IDE
+* Software to be downloaded and installed or to be Explored: 
+    * For stand-alone IDE (Operating system dependent) installation: https://www.microchip.com/mplab/mplab-x-ide
+    * Explore the IDE on the cloud (for learning purposes only; all class work must be done on the stand-alone IDE installed on your
+      PC): https://www.microchip.com/mplab/mplab-xpress
+    * Explore application examples (this may show an empty list for a mminute or longer. Be patient and try a few clicks to get going. 
+      Once you see a list, choose the 'Board' as Microchip Curiosity HPC and the 'Device' as PIC16F18875. You should see 10 of 15
+      examples, which can be run on the cloud IDE or downloaded to be run on your stand-alone IDE later):
+      https://mplabxpress.microchip.com/mplabcloud/example
+    * For installation of the compiler (XC8 C compiler): https://www.microchip.com/mplab/compilers (scroll down and click on the
+      downloads tab)
+    * XC8 Guide/  Release notes: http://ww1.microchip.com/downloads/en/DeviceDoc/xc8-2.10-full-install-release-notes-PIC.pdf
+    * IDE Guide (MPLAB® X IDE Release Notes / User Guide v5.25): https://www.microchip.com/mplab/mplab-x-ide . click on the Downloads
+      tab)
+
 Developer Help:
 * https://microchipdeveloper.com/boards:curiosityhpc
 * https://microchipdeveloper.com/boards:curiosity-videos
