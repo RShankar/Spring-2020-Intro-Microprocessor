@@ -44,6 +44,11 @@ Developer Help:
 * http://ww1.microchip.com/downloads/en/DeviceDoc/Curiosity%20HPC%20Demo%20Code.zip (link repeated)
 * https://mplabxpress.microchip.com/mplabcloud/example?board=curiosity&author=microchip
 
+Simulator and Debugger
+* https://microchipdeveloper.com/mplabx:simulator
+* In Curiosity HPC: Programming/debugging is accomplished through the PICkit™ On Board (PKOB),  eliminating the need for an external
+  programming/debugging tool. 
+
 Training (online, free):
 * https://microchipdeveloper.com/training-self:start
 
