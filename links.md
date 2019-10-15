@@ -17,7 +17,8 @@ Text Book and our resources (required/recommended/useful):
 * On the use of the XC8 compiler (recommended/useful): 
    * Programming PIC Microcontrollers with XC8 by Subero, Armstrong,  https://www.apress.com/us/book/9781484232729 
    * Software for Subero's book: https://github.com/Apress/programming-pic-microcontrollers-w-xc8  
-* Information from spring'19 course offering on PIC16F18855 (we are using PIC16F18875, a different microcontroller, in spring'20):            https://github.com/RShankar/Intro-to-Microprocessors .     
+* Information from spring'19 course offering on PIC16F18855 (we are using PIC16F18875, a slightly different microcontroller, in
+     spring'20): https://github.com/RShankar/Intro-to-Microprocessors .     
 
 Installation help and guides:
 * Microchip video: https://www.youtube.com/watch?v=T8tRqvkFZcw
