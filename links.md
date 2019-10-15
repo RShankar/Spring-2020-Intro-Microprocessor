@@ -8,12 +8,16 @@ From Microchip, maker of the embedded system board:
 Text Book and our resources (required/recommended/useful):
 * On the PIC Microcontroller (required):
    * PIC Microcontroller and Embedded Systems, using Assembly and C witth PIC18, 2nd edition, by Mazidi, Causey, and McKinlay, 2016
+   * The book uses PIC18F, but our class development board uses PIC16F. There are similarities, allowing us to use it as the class
+     text book. For differences, please use the online Microchip.com site reference  material. The professr will point out the
+     differences. 
    * Book website: http://www.microdigitaled.com/PIC/PIC_books.htm
    * Slides:http://www.microdigitaled.com/PIC/PowerPoints/PIC_ppts.htm
    * Labs: http://www.microdigitaled.com/PIC/Lab/PIC_labs.htm
    * List of labs: http://www.microdigitaled.com/PIC/Lab/PIC_labs.htm. 
    * Also here: https://github.com/RShankar/Spring-2020-Intro-Microprocessor/blob/master/imag/PIC18%20labs_For%20Mazidi%20book.png
    * Book Source code, by chapter: http://www.microdigitaled.com/PIC/Code/PIC_codes.htm
+   
 * On the use of the XC8 compiler (recommended/useful): 
    * Programming PIC Microcontrollers with XC8 by Subero, Armstrong,  https://www.apress.com/us/book/9781484232729 
    * Software for Subero's book: https://github.com/Apress/programming-pic-microcontrollers-w-xc8  
